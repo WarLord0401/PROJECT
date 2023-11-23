@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/PROJECT/static/js/main.cf00c690.js",
+    "static/js/787.6e354c4d.chunk.js": "/PROJECT/static/js/787.6e354c4d.chunk.js",
+    "service-worker.js": "/PROJECT/service-worker.js",
+    "index.html": "/PROJECT/index.html",
+    "main.cf00c690.js.map": "/PROJECT/static/js/main.cf00c690.js.map",
+    "787.6e354c4d.chunk.js.map": "/PROJECT/static/js/787.6e354c4d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.cf00c690.js"
+  ]
+}
