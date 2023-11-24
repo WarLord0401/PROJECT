@@ -4,7 +4,7 @@ const theme = {
   fontFamily: 'Roboto, sans-serif',
   mainColors: {
     blue: '#2400ff',
-    gray: '#c6c6c6',
+    gray: 'rgb(106 99 205)',
     dark: '#353535',
   },
 };
