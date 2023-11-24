@@ -15,10 +15,11 @@ function App() {
         <img
           src={img}
           style={{
-            position: 'absolute',
+            position: 'fixed',
             left: 0,
             top: 0,
             width: '100%',
+            height: '100%',
             opacity: '40%',
             zIndex: -10,
           }}
